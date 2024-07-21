@@ -1,4 +1,5 @@
 Building and configuring a firewall is crucial for protecting networks from unauthorized access and potential threats. This tutorial will guide you through setting up and configuring a firewall on an Ubuntu system using UFW (Uncomplicated Firewall).<br>
+<br>
 **Prerequisites**
 >Basic knowledge of Linux commands
 >An Ubuntu system (physical or virtual machine)
